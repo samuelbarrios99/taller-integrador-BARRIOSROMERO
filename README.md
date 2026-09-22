@@ -1,6 +1,6 @@
 # Taller Integrador Cortes 1 y 2
 **Nombre:** Samuel Barrios Romero
-**Grupo:** [Tu Grupo]
+**Grupo:**
 
 ## Auditoría del Código
 
