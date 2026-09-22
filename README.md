@@ -16,4 +16,4 @@
 | Código comentado y `console.log` innecesarios | Ensucia el código y aumenta el peso del archivo. | Se eliminaron la función comentada y los `console.log`. |
 
 ## Enlace al sitio publicado
-[Pendiente de Netlify]
+https://jolly-peony-362261.netlify.app 
